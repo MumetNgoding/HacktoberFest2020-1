@@ -131,7 +131,16 @@
       "contributions": [
         "code"
       ]
-    }
+    },
+   {
+     "login": "MumetNgoding",
+     "name": "Bryan Hafidz",
+     "avatar_url": "https://avatars2.githubusercontent.com/u/20645311?s=460&u=c84bbe1a3c27eb8141031eab92b9538026443904&v=4",
+     "profile": "https://github.com/MumetNgoding",
+     "contributions": [
+	"code"
+     ]
+   }
   ],
   "contributorsPerLine": 7,
   "projectName": "HacktoberFest2020",
